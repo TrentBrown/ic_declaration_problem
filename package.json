@@ -5,5 +5,8 @@
     "devDependencies": {
         "@web/dev-server": "^0.1.35",
         "@web/dev-server-esbuild": "^0.3.3"
+    },
+    "dependencies": {
+        "@dfinity/agent": "^0.15.1"
     }
 }

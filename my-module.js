@@ -1,1 +1,1 @@
-import backend from "../backend/src/declarations/backend";
+import backend from "./declarations/backend/index.js";
