@@ -1,0 +1,9 @@
+{
+    "main": "my-module.js",
+    "module": "my-module.js",
+    "type": "module",
+    "devDependencies": {
+        "@web/dev-server": "^0.1.35",
+        "@web/dev-server-esbuild": "^0.3.3"
+    }
+}
